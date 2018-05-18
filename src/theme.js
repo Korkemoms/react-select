@@ -3,14 +3,14 @@
 export const borderRadius = 4;
 
 export const colors = {
-  text: '#222',
-  textLight: '#444',
-  primary: '#2684FF',
-  primary75: '#4C9AFF',
-  primary50: '#B2D4FF',
-  primary25: '#DEEBFF',
-  danger: '#DE350B',
-  dangerLight: '#FFBDAD',
+  text: '#333',
+  textLight: '#555',
+  primary: '#b2252b',
+  primary75: '#e8b1b4',
+  primary50: '#f3d4d6',
+  primary25: '#fcf4f4',
+  danger: '#FF0000',
+  dangerLight: '#FF6666',
 
   neutral0: 'hsl(0, 0%, 100%)',
   neutral1: 'hsl(0, 0%, 99%)',
