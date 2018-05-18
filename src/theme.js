@@ -1,6 +1,6 @@
 // @flow
 
-export const borderRadius = 4;
+export const borderRadius = 0;
 
 export const colors = {
   text: '#333',
